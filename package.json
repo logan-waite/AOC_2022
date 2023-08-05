@@ -1,0 +1,13 @@
+{
+    "name": "aoc_2022",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index.js",
+        "new_day": "node gen_day.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "type": "module"
+}
